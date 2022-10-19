@@ -1,0 +1,6 @@
+.like-unlike{
+    cursor: pointer;
+    display: inline;
+    margin: 0 5px;
+    color: red;
+}

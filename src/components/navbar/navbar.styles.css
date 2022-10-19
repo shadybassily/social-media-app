@@ -1,0 +1,14 @@
+* {
+  --purple: #8e44ad;
+  --white: #fff;
+}
+nav {
+  background-color: var(--purple);
+  color: var(--white);
+}
+
+
+
+.offcanvas{
+  width: 40% !important;
+}
